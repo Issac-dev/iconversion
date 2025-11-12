@@ -42,7 +42,7 @@ const Hero = () => {
               className="group"
               asChild
             >
-              <a href="https://calendly.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://calendly.com/iwebdesign12/30min" target="_blank" rel="noopener noreferrer">
                 Book Emergency Call
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </a>

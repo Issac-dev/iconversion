@@ -51,7 +51,7 @@ const Footer = () => {
                     </a>
                   </li>
                   <li>
-                    <a href="https://calendly.com" target="_blank" rel="noopener noreferrer" className="hover:text-accent-foreground transition-colors">
+                    <a href="https://calendly.com/iwebdesign12/30min" target="_blank" rel="noopener noreferrer" className="hover:text-accent-foreground transition-colors">
                       Contact
                     </a>
                   </li>

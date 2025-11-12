@@ -99,7 +99,7 @@ const Pricing = () => {
                 className="w-full"
                 asChild
               >
-                <a href="https://calendly.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://calendly.com/iwebdesign12/30min" target="_blank" rel="noopener noreferrer">
                   Select {pkg.name}
                 </a>
               </Button>

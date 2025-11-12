@@ -33,7 +33,7 @@ const FinalCTA = () => {
               className="bg-background text-foreground hover:bg-background/90 hover:shadow-[0_0_40px_rgba(255,255,255,0.5)] group"
               asChild
             >
-              <a href="https://calendly.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://calendly.com/iwebdesign12/30min" target="_blank" rel="noopener noreferrer">
                 Book Your Emergency Call Now
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </a>
