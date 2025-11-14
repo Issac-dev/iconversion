@@ -3,6 +3,7 @@ import UrgencySection from "@/components/UrgencySection";
 import HowItWorks from "@/components/HowItWorks";
 import Pricing from "@/components/Pricing";
 import ProofSection from "@/components/ProofSection";
+import PortfolioGallery from "@/components/PortfolioGallery";
 import AboutSection from "@/components/AboutSection";
 import FinalCTA from "@/components/FinalCTA";
 import Footer from "@/components/Footer";
@@ -15,6 +16,7 @@ const Index = () => {
       <HowItWorks />
       <Pricing />
       <ProofSection />
+      <PortfolioGallery />
       <AboutSection />
       <FinalCTA />
       <Footer />
