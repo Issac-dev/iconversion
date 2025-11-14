@@ -28,18 +28,12 @@ const AboutSection = () => {
             {/* Content side */}
             <div className="animate-slide-in-right">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">
-                Built by Someone Who Gets It
+                About Isaac Ola
               </h2>
               
               <div className="space-y-4 text-muted-foreground mb-8">
                 <p>
-                  I'm Isaac Ola, a web engineer who's spent years building and optimizing high-converting funnels for SaaS, e-commerce, and service businesses.
-                </p>
-                <p>
-                  I created Conversion Rescue because I was tired of seeing great products fail due to slow websites, confusing checkouts, and leaky funnels.
-                </p>
-                <p className="text-foreground font-semibold">
-                  Every day a technical issue bleeds your revenue is a day you can't get back. Let's fix it—fast.
+                  I'm a web engineer and conversion specialist. I've built fast, modern experiences for brands across sportswear and automotive niches — helping them convert visitors into loyal customers. Conversion Rescue is my emergency service for businesses losing revenue through broken sites.
                 </p>
               </div>
 
