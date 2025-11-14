@@ -68,7 +68,7 @@ const ProofSection = () => {
         </div>
 
         {/* Testimonials */}
-        <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+        <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto mb-20">
           {testimonials.map((testimonial, index) => (
             <div
               key={index}
@@ -87,6 +87,35 @@ const ProofSection = () => {
               </div>
             </div>
           ))}
+        </div>
+
+        {/* Recent Projects */}
+        <div className="max-w-4xl mx-auto">
+          <h3 className="text-2xl md:text-3xl font-bold text-center mb-12">Recent Projects</h3>
+          <div className="space-y-6">
+            <div className="bg-card rounded-xl p-6 border border-border hover:border-primary/30 transition-all duration-300">
+              <div className="flex items-start gap-3">
+                <span className="text-2xl">🏎</span>
+                <div>
+                  <h4 className="font-semibold text-lg mb-2">Autos Mechanics</h4>
+                  <p className="text-muted-foreground">
+                    Full rebuild of a luxury auto service website. Improved site speed from 8.3s to 1.7s.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-card rounded-xl p-6 border border-border hover:border-primary/30 transition-all duration-300">
+              <div className="flex items-start gap-3">
+                <span className="text-2xl">🏋️‍♂️</span>
+                <div>
+                  <h4 className="font-semibold text-lg mb-2">Adika Sportswear</h4>
+                  <p className="text-muted-foreground">
+                    Created a dynamic e-commerce layout and product showcase to boost engagement.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
